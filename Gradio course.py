@@ -5,7 +5,7 @@
 # example 3: image captioning app (lines 163 - 237)
 # example 4: image generation app (lines 240 - 411)
 # example 5: describe-and-generate game (lines 415 - 518)
-# example 6: chat with any llm (falcon-40b-instruct) (lines 520- 
+# example 6: chat with any llm (falcon-40b-instruct) (lines 520- 660)
 
 
 # Load your HF API key and relevant Python libraries.
